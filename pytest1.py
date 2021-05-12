@@ -1,3 +1,5 @@
+# n - input
+
 dsu = [i for i in range(n + 1)]
 def find_dsu(x):
     if x == dsu[x]:
